@@ -29,7 +29,7 @@
                 <div class="card-body">
                     <div class="container animated bounceInUp">     
                         <div class="row">
-                        <div class="col-md-10">
+                        <div class="col-md-10" style="height: 240px">
                             <iframe class="col-md-2" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=intellectuelle-20&language=en_US&marketplace=amazon&region=BR&placement=B07FPX7SQZ&asins=B07FPX7SQZ&linkId=f94d02150e62a38767938ea3eecadc5f&show_border=true&link_opens_in_new_window=true"></iframe>
                             <iframe class="col-md-2" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=intellectuelle-20&language=en_US&marketplace=amazon&region=BR&placement=B0773XBMB6&asins=B0773XBMB6&linkId=589acc5b7efed4fae30e54c1ddc55608&show_border=true&link_opens_in_new_window=true"></iframe>
                             <iframe class="col-md-2" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=intellectuelle-20&language=en_US&marketplace=amazon&region=BR&placement=B07JMPGNHK&asins=B07JMPGNHK&linkId=6d391f23c483ceed87f88afd704b3d5c&show_border=true&link_opens_in_new_window=true"></iframe>
