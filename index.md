@@ -14,7 +14,7 @@
         <div
             class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom shadow-sm">
             <h5 class="my-0 mr-md-auto font-weight-normal">
-                <img src="logo.jfif" height="30px" width="80px">
+                <img src="logo.svg" height="30px" width="80px">
             </h5>
             <nav class="my-2 my-md-0 mr-md-3">
                 <a href="https://amzn.to/2U9DEhI" class="p-2 text-dark">Livros por Categoria</a>
