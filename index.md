@@ -36,7 +36,7 @@
                             <iframe class="col-md-2" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=intellectuelle-20&language=en_US&marketplace=amazon&region=BR&placement=B07SJG88JH&asins=B07SJG88JH&linkId=9200d2c3f1482c16a2b5e1e9172e9107&show_border=true&link_opens_in_new_window=true"></iframe>                            
                         </div>
                         <div class="col col-md-2">
-                            <button type="button" class="btn btn-warning btn-outline-dark"><a class="stretched-link" href="https://amzn.to/38WyxGQ">Amazon Destaques</a></button>
+                            <a class="btn btn-warning btn-outline-dark stretched-link" href="https://amzn.to/38WyxGQ">Amazon Destaques</a>
                         </div>
                         <div class="row">
                             <div class="col-md-10">
