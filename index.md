@@ -32,7 +32,7 @@
                 <div class="card-body">
                     <div class="container animated bounceInUp">
                         <div class="row">
-                            <div class="col-md-12 col-sm-12 text-center align-items-center" style="max-height: 250px">
+                            <div class="col-md-12 col-sm-12 text-center align-items-center" style="max-height: 50px">
                                 <img class="h-100 d-inline-block" src="quarantine.jpg"/>
                             </div>
                         </div>
