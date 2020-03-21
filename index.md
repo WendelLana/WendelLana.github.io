@@ -32,8 +32,8 @@
                 <div class="card-body">
                     <div class="container animated bounceInUp">
                         <div class="row">
-                            <div class="col-md-12 col-sm-12 text-center align-items-center">
-                                <img src="quarantine.jpg" height="350px"/>
+                            <div class="col-md-12 col-sm-12 text-center align-items-center" style="max-height: 350px">
+                                <img class="h-100 d-inline-block" src="quarantine.jpg"/>
                             </div>
                         </div>
                         <div class="row">
