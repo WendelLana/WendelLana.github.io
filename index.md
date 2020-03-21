@@ -97,7 +97,7 @@
                             <iframe class="col-md-2" style="height: 340px" marginwidth="0" marginheight="0"
                                 scrolling="no" frameborder="0"
                                 src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=intellectuelle-20&language=en_US&marketplace=amazon&region=BR&placement=B07YXNCN8Y&asins=B07YXNCN8Y&linkId=6651fab06b62c0733f8ee07d2dcb5a20&show_border=true&link_opens_in_new_window=true"></iframe>
-                            <iframe class="col-md-2" style="height:340px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=intellectuelle-20&language=en_US&marketplace=amazon&region=BR&placement=B082MNDX47&asins=B082MNDX47&linkId=8b2897d4c2a23e4939b73ddb3361b1ae&show_border=true&link_opens_in_new_window=true"></iframe>
+                                <iframe class="col-md-2" style="height:340px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=intellectuelle-20&language=en_US&marketplace=amazon&region=BR&placement=B082MNDX47&asins=B082MNDX47&linkId=8b2897d4c2a23e4939b73ddb3361b1ae&show_border=true&link_opens_in_new_window=true"></iframe>
                         </div>
                     </div>
                 </div>
