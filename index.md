@@ -13,7 +13,7 @@
     <header>
         <div
             class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom shadow-sm">
-            <h5 class="my-0 mr-md-auto font-weight-normal">
+            <h5 class="my-0 mr-md-auto font-weight-normal align-items-center">
                 <img src="wendel.png" height="30px" width="80px">
             </h5>
             <nav class="my-2 my-md-0 mr-md-3">
@@ -32,7 +32,7 @@
                 <div class="card-body">
                     <div class="container animated bounceInUp">
                         <div class="row">
-                            <div class="col-md-12 align-items-center">
+                            <div class="col-md-12 col-sm-12 align-items-center">
                                 <img src="quarantine.jpg" height="350px"/>
                             </div>
                         </div>
