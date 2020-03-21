@@ -51,8 +51,7 @@
                                 <a style="color: white; text-decoration: none;"
                                     href="https://www.linkedin.com/learning/paths/trabalho-remoto-colaboracao-foco-e-produtividade">
                                     <img class="img-fluid img-thumbnail" src="linkedin.png" alt="Linkedin Logo">
-                                    <button class="btn text-light" style="background-color: #13133a;">Linkedin -
-                                        Trabalho Remoto</button>
+                                    <button class="btn text-light" style="background-color: #13133a;">Linkedin - Trabalho Remoto</button>
                                 </a>
                             </div>
                             <div class="col-md-2">
@@ -77,6 +76,10 @@
                                         Gratuitos</button>
                                 </a>
                             </div>
+                        </div><br/>
+                        <div class="row">
+                            <div class="card-header border-dark text-white col-md-12" style="background-color: #13133a;font-weight: bold;">
+                                Amazon Promoções</div>
                         </div>
                         <div class="row">
                             <iframe class="col-md-2" style="height: 340px" marginwidth="0" marginheight="0"
