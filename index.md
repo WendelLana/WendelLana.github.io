@@ -27,55 +27,77 @@
         <div class="col-md-12 order-md1">
             <div class="card">
                 <div class="card-header border-dark text-white" style="background-color: #13133a;font-weight: bold;">
-                    Cursos em
+                    Aproveite a
                     Quarentena</div>
                 <div class="card-body">
                     <div class="container animated bounceInUp">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <img src="quarantine.jpg" height="350px"/>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="card-header border-dark text-white col-md-12" style="background-color: #13133a;font-weight: bold;">
+                                Cursos Gratuitos</div>
+                        </div><br/>
                         <div class="row">
                             <div class="col-md-2">
                                 <a style="color: white; text-decoration: none;"
                                     href="https://online-learning.harvard.edu/catalog?keywords=&paid%5B1%5D=1&max_price=&start_date%5B%5D=1&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=">
                                     <img class="img-fluid img-thumbnail" src="harvard.png" alt="Harvard Logo">
-                                    <button class="btn text-light" style="background-color: #13133a;">Harvard Cursos
-                                        Gratuitos</button>
+                                    <button class="btn text-light" style="background-color: #13133a;">Estude nos Cursos de Harvard</button>
                                 </a>
                             </div>
                             <div class="col-md-2">
                                 <a style="color: white; text-decoration: none;" href="https://casadosaber.com.br/sp/">
                                     <img class="img-fluid img-thumbnail" src="casasaber.png" alt="Casa do Saber Logo">
-                                    <button class="btn text-light" style="background-color: #13133a;">Casa do Saber
-                                        Cursos Gratuitos </button>
+                                    <button class="btn text-light" style="background-color: #13133a;">Casa do Saber Cursos</button>
                                 </a>
                             </div>
                             <div class="col-md-2">
                                 <a style="color: white; text-decoration: none;"
                                     href="https://www.linkedin.com/learning/paths/trabalho-remoto-colaboracao-foco-e-produtividade">
                                     <img class="img-fluid img-thumbnail" src="linkedin.png" alt="Linkedin Logo">
-                                    <button class="btn text-light" style="background-color: #13133a;">Linkedin - Trabalho Remoto</button>
+                                    <button class="btn text-light" style="background-color: #13133a;">Linkedin de Trabalho Remoto</button>
                                 </a>
                             </div>
                             <div class="col-md-2">
                                 <a style="color: white; text-decoration: none;"
                                     href="https://educacao-executiva.fgv.br/busca?keys=&curso_tipo%5B%5D=517&modalidade%5B%5D=45&tipo_invest%5B1%5D=1&estados=All&cidades=All&unidade=All&sort_by=field_oferta_data_inicio_turma_value&items_per_page=10&mail_address_me=">
                                     <img class="img-fluid img-thumbnail" src="fgv.png" alt="FGV Logo">
-                                    <button class="btn text-light" style="background-color: #13133a;">FGV Cursos
-                                        Gratuitos</button>
+                                    <button class="btn text-light" style="background-color: #13133a;">Fundação Getúlio Vargas Cursos</button>
                                 </a>
                             </div>
                             <div class="col-md-2">
                                 <a style="color: white; text-decoration: none;" href="https://www.ev.org.br/cursos  ">
                                     <img class="img-fluid img-thumbnail" src="bradesco.png" alt="Bradesco Logo"/>
-                                    <button class="btn text-light" style="background-color: #13133a;">Bradesco Cursos
-                                        Gratuitos</button>
+                                    <button class="btn text-light" style="background-color: #13133a;">Fundação Bradesco Cursos</button>
                                 </a>
                             </div>
                             <div class="col-md-2">
                                 <a style="color: white; text-decoration: none;" href="https://mooc.cps.sp.gov.br/">
-                                    <img class="img-fluid img-thumbnail" src="cps.jpg" alt="CPS Logo"/>
-                                    <button class="btn text-light" style="background-color: #13133a;">CPS Cursos
-                                        Gratuitos</button>
+                                    <img class="img-fluid img-thumbnail" src="cps.jpg" alt="Centro Paula Souza Logo"/>
+                                    <button class="btn text-light" style="background-color: #13133a;">Centro Paula Souza Cursos</button>
                                 </a>
                             </div>
+                            <div class="col-md-2">
+                                <a style="color: white; text-decoration: none;" href="https://www.napratica.org.br/edicoes/?utm_campaign=Comunicado-Covid-19-21032020&utm_medium=email&utm_source=rd_atracao">
+                                    <img class="img-fluid img-thumbnail" src="pratica.png" alt="Estudar na Prática Logo"/>
+                                    <button class="btn text-light" style="background-color: #13133a;">Estudar na Prática Cursos</button>
+                                </a>
+                            </div>
+                            <div class="col-md-2">
+                                <a style="color: white; text-decoration: none;" href="https://www.stoodi.com.br/portas-abertas/">
+                                    <img class="img-fluid img-thumbnail" src="stoodi.png" alt="Stoodi Logo"/>
+                                    <button class="btn text-light" style="background-color: #13133a;">Stoodi para Vestibular</button>
+                                </a>
+                            </div>
+                            <div class="col-md-2">
+                                <a style="color: white; text-decoration: none;" href="https://www.toolzz.com.br/institutoexito/catalogo">
+                                    <img class="img-fluid img-thumbnail" src="exito.jfif" alt="Instituto Êxito Logo"/>
+                                    <button class="btn text-light" style="background-color: #13133a;">Instituto Êxito Cursos</button>
+                                </a>
+                            </div>                            
                         </div><br/>
                         <div class="row">
                             <div class="card-header border-dark text-white col-md-12" style="background-color: #13133a;font-weight: bold;">
