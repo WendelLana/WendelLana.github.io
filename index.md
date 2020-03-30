@@ -11,9 +11,7 @@
 
 <body>
     <style type="text/css">
-        h1 a {
-            display:none;
-        }
+        <style type="text/css"> h1 a { display:none; } </style> 
     </style>
     <header>
         <div
