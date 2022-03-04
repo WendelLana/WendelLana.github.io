@@ -62,7 +62,7 @@
                                 <a class="courses-link"
                                     href="https://www.linkedin.com/learning/paths/trabalho-remoto-colaboracao-foco-e-produtividade">
                                     <img class="img-fluid img-thumbnail" src="linkedin.png" alt="Linkedin Logo">
-                                    <button class="btn text-light">Linkedin de Trabalho Remoto</button>
+                                    <button class="btn text-light">Home Office - Linkedin</button>
                                 </a>
                             </div>                            
                             <div class="col-md-2">
