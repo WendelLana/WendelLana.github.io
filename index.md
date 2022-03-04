@@ -47,6 +47,10 @@
                             <div class="col-md-4 col-sm-4 text-center align-items-center">
                                 <b>Frase da semana</b> 
                                 <article>Brutum Fulmen: Ameaça Vazia</article>
+                                <audio controls>
+                                    <source src="phrase.mp3" type="audio/mpeg">
+                                    Seu navegador não suporta elementos de aúdio.
+                                </audio>
                             </div>
                         </div>
                         <div class="row">
