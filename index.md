@@ -41,8 +41,12 @@
                 <div class="card-body">
                     <div class="container animated bounceInUp">
                         <div class="row">
-                            <div class="col-md-12 col-sm-12 text-center align-items-center quarantine-logo">
+                            <div class="col-md-8 col-sm-8 text-center align-items-center quarantine-logo">
                                 <img class="h-100 d-inline-block" src="quarantine.jpg"/>
+                            </div>
+                            <div class="col-md-4 col-sm-4 text-center align-items-center">
+                                <b>Frase da semana</b> 
+                                <article>Brutum Fulmen: Ameaça Vazia</article>
                             </div>
                         </div>
                         <div class="row">
@@ -62,7 +66,7 @@
                                 <a class="courses-link"
                                     href="https://www.linkedin.com/learning/paths/trabalho-remoto-colaboracao-foco-e-produtividade">
                                     <img class="img-fluid img-thumbnail" src="linkedin.png" alt="Linkedin Logo">
-                                    <button class="btn text-light">Home Office - Linkedin</button>
+                                    <button class="btn text-light">Home Office Linkedin</button>
                                 </a>
                             </div>                            
                             <div class="col-md-2">
@@ -90,7 +94,7 @@
                                 </a>
                             </div>
                         </div><br/>
-                        <div class="row">
+                        <!--<div class="row">
                             <div class="card-header border-dark text-white col-md-12">
                                 Ordenamento Livros</div>
                         </div><br/>
@@ -111,7 +115,7 @@
                             <iframe class="col-md-2" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=intellectuelle-20&language=en_US&marketplace=amazon&region=BR&placement=B07SJG88JH&asins=B07SJG88JH&linkId=9200d2c3f1482c16a2b5e1e9172e9107&show_border=true&link_opens_in_new_window=true"></iframe>
                             <iframe class="col-md-2" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=intellectuelle-20&language=en_US&marketplace=amazon&region=BR&placement=B07YXNCN8Y&asins=B07YXNCN8Y&linkId=6651fab06b62c0733f8ee07d2dcb5a20&show_border=true&link_opens_in_new_window=true"></iframe>
                             <iframe class="col-md-2" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=intellectuelle-20&language=en_US&marketplace=amazon&region=BR&placement=B082MNDX47&asins=B082MNDX47&linkId=8b2897d4c2a23e4939b73ddb3361b1ae&show_border=true&link_opens_in_new_window=true"></iframe>
-                        </div>
+                        </div>-->
                     </div>
                 </div>
             </div>
