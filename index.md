@@ -55,7 +55,7 @@
                                 <a class="courses-link"
                                     href="https://online-learning.harvard.edu/catalog?keywords=&paid%5B1%5D=1&max_price=&start_date%5B%5D=1&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=">
                                     <img class="img-fluid img-thumbnail" src="harvard.png" alt="Harvard Logo">
-                                    <button class="btn text-light">Estude nos Cursos de Harvard</button>
+                                    <button class="btn text-light">Cursos de Harvard</button>
                                 </a>
                             </div>                            
                             <div class="col-md-2">
@@ -86,7 +86,7 @@
                             <div class="col-md-2">
                                 <a class="courses-link" href="https://amzn.to/3dk0GLG">
                                     <img class="img-fluid img-thumbnail" src="reading.png" alt="Amazon Reading Logo"/>
-                                    <button class="btn text-light">Amazon Reading 30 dias grátis</button>
+                                    <button class="btn text-light">Prime Reading 30 dias grátis</button>
                                 </a>
                             </div>
                         </div><br/>
