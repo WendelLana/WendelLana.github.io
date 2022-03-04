@@ -15,7 +15,8 @@
         gtag('config', 'UA-180011047-1');
     </script>
 
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="bootstrap.min.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="index.css" media="screen">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css" />
 </head>
 
@@ -23,7 +24,7 @@
     <header>
         <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom shadow-sm">
             <h5 class="my-0 mr-md-auto font-weight-normal align-items-center">
-                <img src="images/wendel.png" height="30px" width="80px">
+                <img src="wendel.png" height="30px" width="80px">
             </h5>
             <nav class="my-2 my-md-0 mr-md-3">
                 <a href="https://amzn.to/2U9DEhI" class="p-2 btn btn-outline-dark">Livros por Categoria</a>
@@ -42,7 +43,7 @@
                     <div class="container animated bounceInUp">
                         <div class="row">
                             <div class="col-md-12 col-sm-12 text-center align-items-center quarantine-logo">
-                                <img class="h-100 d-inline-block" src="images/quarantine.jpg"/>
+                                <img class="h-100 d-inline-block" src="quarantine.jpg"/>
                             </div>
                         </div>
                         <div class="row">
@@ -54,50 +55,50 @@
                             <div class="col-md-2">
                                 <a class="courses-link"
                                     href="https://online-learning.harvard.edu/catalog?keywords=&paid%5B1%5D=1&max_price=&start_date%5B%5D=1&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=">
-                                    <img class="img-fluid img-thumbnail" src="images/harvard.png" alt="Harvard Logo">
+                                    <img class="img-fluid img-thumbnail" src="harvard.png" alt="Harvard Logo">
                                     <button class="btn text-light">Estude nos Cursos de Harvard</button>
                                 </a>
                             </div>                            
                             <div class="col-md-2">
                                 <a class="courses-link"
                                     href="https://www.linkedin.com/learning/paths/trabalho-remoto-colaboracao-foco-e-produtividade">
-                                    <img class="img-fluid img-thumbnail" src="images/linkedin.png" alt="Linkedin Logo">
+                                    <img class="img-fluid img-thumbnail" src="linkedin.png" alt="Linkedin Logo">
                                     <button class="btn text-light">Linkedin de Trabalho Remoto</button>
                                 </a>
                             </div>                            
                             <div class="col-md-2">
                                 <a class="courses-link" href="https://www.ev.org.br/cursos  ">
-                                    <img class="img-fluid img-thumbnail" src="images/bradesco.png" alt="Bradesco Logo"/>
+                                    <img class="img-fluid img-thumbnail" src="bradesco.png" alt="Bradesco Logo"/>
                                     <button class="btn text-light">Fundação Bradesco Cursos</button>
                                 </a>
                             </div>
                             <div class="col-md-2">
                                 <a class="courses-link" href="https://mooc.cps.sp.gov.br/">
-                                    <img class="img-fluid img-thumbnail" src="images/cps.jpg" alt="Centro Paula Souza Logo"/>
+                                    <img class="img-fluid img-thumbnail" src="cps.jpg" alt="Centro Paula Souza Logo"/>
                                     <button class="btn text-light">Centro Paula Souza Cursos</button>
                                 </a>
                             </div>
                             <div class="col-md-2">
                                 <a class="courses-link" href="https://www.stoodi.com.br/portas-abertas/">
-                                    <img class="img-fluid img-thumbnail" src="images/stoodi.png" alt="Stoodi Logo"/>
+                                    <img class="img-fluid img-thumbnail" src="stoodi.png" alt="Stoodi Logo"/>
                                     <button class="btn text-light">Stoodi para Vestibular</button>
                                 </a>
                             </div>
                             <div class="col-md-2">
                                 <a class="courses-link" href="https://amzn.to/3dk0GLG">
-                                    <img class="img-fluid img-thumbnail" src="images/reading.png" alt="Amazon Reading Logo"/>
+                                    <img class="img-fluid img-thumbnail" src="reading.png" alt="Amazon Reading Logo"/>
                                     <button class="btn text-light">Acessar Amazon Reading</button>
                                 </a>
                             </div>
                             <div class="col-md-2">
                                 <a class="courses-link" href="https://amzn.to/3bhBEuJ">
-                                    <img class="img-fluid img-thumbnail" src="images/music.png" alt="Amazon Music Logo"/>
+                                    <img class="img-fluid img-thumbnail" src="music.png" alt="Amazon Music Logo"/>
                                     <button class="btn text-light">Acessar Amazon Music</button>
                                 </a>
                             </div>
                             <div class="col-md-2">
                                 <a class="courses-link" href="https://amzn.to/3dmflpl">
-                                    <img class="img-fluid img-thumbnail" src="images/prime.png" alt="Amazon Prime Logo"/>
+                                    <img class="img-fluid img-thumbnail" src="prime.png" alt="Amazon Prime Logo"/>
                                     <button class="btn text-light">Amazon Prime 30 dias Grátis</button>
                                 </a>
                             </div>
