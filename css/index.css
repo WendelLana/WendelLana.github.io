@@ -1,0 +1,25 @@
+h1 {
+    display:none;
+}
+
+iframe {
+    height: 320px;
+}
+
+.card-header {
+    background-color: #13133a;
+    font-weight: bold;
+}
+
+.quarantine-logo {
+    max-height: 250px;
+}
+
+.courses-link {
+    color: white;
+    text-decoration: none;
+}
+
+.text-light {
+    background-color: #13133a;
+}
