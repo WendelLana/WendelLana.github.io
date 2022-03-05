@@ -23,3 +23,12 @@ iframe {
 .text-light {
     background-color: #13133a;
 }
+
+.img-poem {
+    max-height: 400px;
+}
+
+.poem {
+    font-family: 'Palatino Linotype', serif;
+    font-size: 14px;
+}
