@@ -103,8 +103,8 @@
                                 Poemas</div>
                         </div><br/>
                         <div class="row text-center align-items-center">
-                            <img class="img-fluid img-thumbnail col-md-2 img-poem" src="platoniclove.jpeg" alt="Eros and Psique"/>
-                            <article class="text-center align-items-center col-md-3 poem">
+                            <img class="img-fluid img-thumbnail col-md-2 img-poem" src="platoniclove.jpeg" alt="Eros and Psique" style="max-height: 400px;"/>
+                            <article class="text-center align-items-center col-md-3 poem" style="font-family: 'Palatino Linotype', serif; font-size: 14px;">
                                 <p>Gaba uma beleza incomparável<br/>
                                 Idealizado véu louro que irradia<br/>
                                 Olhos ornamentais como camélia</p>
@@ -116,8 +116,8 @@
                                 <p>Nunca pude te dizer, então reneguei<br/>
                                 A verdade recôndita de que te amei.</p>
                             </article>
-                            <img class="img-fluid img-thumbnail col-md-3 img-poem" src="spring.jpg" alt="Spring"/>
-                            <article class="text-center align-items-center col-md-4 poem">
+                            <img class="img-fluid img-thumbnail col-md-3" src="spring.jpg" alt="Spring"/>
+                            <article class="text-center align-items-center col-md-4 poem" style="font-family: 'Palatino Linotype', serif; font-size: 14px;">
                                 <b>Elegíada da Esperança</b>
                                 <p>A primavera chega em meu jardim<br/>
                                 E com seus floreios esverdeados<br/>
