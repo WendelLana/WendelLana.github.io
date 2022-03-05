@@ -98,6 +98,37 @@
                                 </a>
                             </div>
                         </div><br/>
+                        <div class="row">
+                            <div class="card-header border-dark text-white col-md-12">
+                                Poemas</div>
+                        </div><br/>
+                        <div class="row text-center align-items-center">
+                            <img class="img-fluid img-thumbnail col-md-2 img-poem" src="platoniclove.jpeg" alt="Eros and Psique"/>
+                            <article class="text-center align-items-center col-md-3 poem">
+                                <p>Gaba uma beleza incomparável<br/>
+                                Idealizado véu louro que irradia<br/>
+                                Olhos ornamentais como camélia</p>
+                                
+                                <p>Voe translúcido no céu, ó amável<br/>
+                                Acolhdor cântico da alma, aceite<br/>
+                                Neste campo florente <i>la vie en rose.</i></p>
+
+                                <p>Nunca pude te dizer, então reneguei<br/>
+                                A verdade recôndita de que te amei.</p>
+                            </article>
+                            <img class="img-fluid img-thumbnail col-md-3 img-poem" src="spring.jpg" alt="Spring"/>
+                            <article class="text-center align-items-center col-md-4 poem">
+                                <b>Elegíada da Esperança</b>
+                                <p>A primavera chega em meu jardim<br/>
+                                E com seus floreios esverdeados<br/>
+                                Irradiam ao sol carmesim<br/>
+                                O belo cântico do grilo verde</p>
+                                <p>Tal sol irradiante, agora vai-se no horizonte<br/>
+                                E o cântico já ecoa num lugar distante<br/>
+                                Ó entardecer que esvaece-se na memória<br/>
+                                Se forma na esperança do futuro, o agora</p>
+                            </article>
+                        </div><br/>
                         <!--<div class="row">
                             <div class="card-header border-dark text-white col-md-12">
                                 Ordenamento Livros</div>
