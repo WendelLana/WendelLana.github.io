@@ -25,10 +25,10 @@ iframe {
 }
 
 .img-poem {
-    max-height: 400px;
+    max-height: 400px !important;
 }
 
 .poem {
     font-family: 'Palatino Linotype', serif;
-    font-size: 14px;
+    font-size: 14px !important;
 }
