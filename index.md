@@ -116,7 +116,7 @@
                                 <p>Nunca pude te dizer, então reneguei<br/>
                                 A verdade recôndita de que te amei.</p>
                             </article>
-                            <img class="img-fluid img-thumbnail col-md-3" src="spring.jpg" alt="Spring"/>
+                            <img class="img-fluid img-thumbnail col-md-3 img-poem" src="spring.jpg" alt="Spring" style="max-height: 400px;"/>
                             <article class="text-center align-items-center col-md-4 poem" style="font-family: 'Palatino Linotype', serif; font-size: 14px;">
                                 <b>Elegíada da Esperança</b>
                                 <p>A primavera chega em meu jardim<br/>
