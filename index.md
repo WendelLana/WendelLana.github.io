@@ -27,7 +27,7 @@
                 <img src="wendel.png" height="30px" width="80px">
             </h5>
             <nav class="my-2 my-md-0 mr-md-3">
-                <a href="CV Wendel.pdf" donwload="CV_WendelFernandes" class="p-2 btn btn-outline-dark">Meu CV</a>
+                <a href="CV_Wendel.pdf" donwload="CV_WendelFernandes" class="p-2 btn btn-outline-dark">Meu CV</a>
             </nav>
             <a routerlinkactive="hide-login" class="btn btn-outline-primary" href="https://amzn.to/3a78ONe">Acessar
                 Amazon</a>
