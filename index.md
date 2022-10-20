@@ -101,9 +101,9 @@
                         </div><br/>
                         <div class="row">
                             <div class="card-header border-dark text-white col-md-12">
-                                Poemas</div>
+                                <a data-toggle="collapse" href="#collapsePoems" role="button" aria-expanded="false" aria-controls="collapsePoems">Poemas</a></div>
                         </div><br/>
-                        <div class="row text-center align-items-center">
+                        <div class="row text-center align-items-center collapse" id="collapsePoems">
                             <img class="img-fluid img-thumbnail col-md-2 img-poem" src="platoniclove.jpeg" alt="Eros and Psique" style="max-height: 400px;"/>
                             <article class="text-center align-items-center col-md-3 poem" style="font-family: 'Palatino Linotype', serif; font-size: 14px;">
                                 <p>Gaba uma beleza incomparável<br/>
