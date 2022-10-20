@@ -101,7 +101,7 @@
                         </div><br/>
                         <div class="row">
                             <div class="card-header border-dark text-white col-md-12">
-                                <a data-toggle="collapse" href="#collapsePoems" role="button" aria-expanded="false" aria-controls="collapsePoems">Poemas</a></div>
+                                <a data-toggle="collapse" href="#collapsePoems" role="button" aria-expanded="false" aria-controls="collapsePoems" style="text-decoration: none; color: white;">Poemas</a></div>
                         </div><br/>
                         <div class="row text-center align-items-center collapse" id="collapsePoems">
                             <img class="img-fluid img-thumbnail col-md-2 img-poem" src="platoniclove.jpeg" alt="Eros and Psique" style="max-height: 400px;"/>
