@@ -98,12 +98,6 @@
                                     <button class="btn text-light">Prime Reading 30 dias grátis</button>
                                 </a>
                             </div>
-                            <div class="col-md-2">
-                                <a class="courses-link" href="https://amzn.to/3dk0GLG">
-                                    <img class="img-fluid img-thumbnail" src="reading.png" alt="Amazon Reading Logo"/>
-                                    <button class="btn text-light">Prime Reading 30 dias grátis</button>
-                                </a>
-                            </div>
                         </div><br/>
                         <div class="row">
                             <div class="card-header border-dark text-white col-md-12">
