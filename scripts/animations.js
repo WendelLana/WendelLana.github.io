@@ -2,7 +2,7 @@
 flag = 1
         function f1() {
             document.getElementById("imagem").src = "https://media.giphy.com/media/gLugCaElYXH7589sSb/giphy.gif"
-            document.getElementById("texto").textContent = "Tá marcado amanhã às 18h"
+            document.getElementById("texto").textContent = "Midnight, I'll come and pick you up"
             alert("YEAH, TE AMO! <3")
             document.getElementById("By").style.visibility = "hidden"
             document.getElementById("Bn").style.visibility = "hidden"
