@@ -8,6 +8,7 @@
 html {
   scroll-snap-type: y mandatory;
   scroll-behavior: smooth;
+  width: 100%;
 }
 
 body {
@@ -51,5 +52,11 @@ a {
 @mixin desktop {
   @media (max-width: 1366px) {
     @content;
+  }
+}
+
+#Services {
+  @include mobile {
+    display: none;
   }
 }
