@@ -6,9 +6,8 @@
 }
 
 html {
-  scroll-snap-type: y mandatory;
   scroll-behavior: smooth;
-  width:max-content;
+  width:100%;
 }
 
 body {
@@ -59,5 +58,11 @@ a {
 #Services {
   @include mobile {
     display: none;
+  }
+}
+
+html {
+  @include mobile {
+    overflow-x: hidden;
   }
 }
