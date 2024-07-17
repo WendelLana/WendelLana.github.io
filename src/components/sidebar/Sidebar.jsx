@@ -2,7 +2,6 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 import "./sidebar.scss";
 import ToggleButton from "./toggleButton/ToggleButton";
-import Links from "./links/Links";
 
 const variants = {
   open: {
@@ -23,16 +22,56 @@ const variants = {
   },
 };
 
-const Sidebar = () => {
+const variantsLink = {
+  open: {
+    transition: {
+      staggerChildren: 0.1,
+    },
+  },
+  closed: {
+    transition: {
+      staggerChildren: 0.05,
+      staggerDirection: -1,
+    },
+  },
+};
 
+const itemVariants = {
+  open: {
+    y: 0,
+    opacity: 1,
+  },
+  closed: {
+    y: 50,
+    opacity: 0,
+  },
+};
+
+const Sidebar = () => {
+  const items = ["Homepage", "Services", "Contact", "About"];
   const [open, setOpen] = useState(false);
+
+
+  const toggleSidebar = () => setOpen(!open);
 
   return (
     <motion.div className="sidebar" animate={open ? "open" : "closed"}>
       <motion.div className="bg" variants={variants}>
-        <Links/>
+        <motion.div className="links" variants={variantsLink}>
+          {items.map((item) => (
+            <motion.a
+              href={`#${item}`}
+              key={item}
+              variants={itemVariants}
+              whileHover={{ scale: 1.1 }}
+              whileTap={{ scale: 0.95 }}
+              onClick={toggleSidebar}>
+              {item}
+            </motion.a>
+          ))}
+        </motion.div>
       </motion.div>
-      <ToggleButton setOpen={setOpen}/>
+      <ToggleButton setOpen={setOpen} />
     </motion.div>
   );
 };
