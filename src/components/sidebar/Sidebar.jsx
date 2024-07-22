@@ -48,7 +48,7 @@ const itemVariants = {
 };
 
 const Sidebar = () => {
-  const items = ["Homepage", "Services", "Contact", "About"];
+  const items = ["Homepage", "Services", "Contact", "Amazon Store"];
   const [open, setOpen] = useState(false);
 
 
@@ -60,7 +60,7 @@ const Sidebar = () => {
         <motion.div className="links" variants={variantsLink}>
           {items.map((item) => (
             <motion.a
-              href={`#${item}`}
+              href={item === 'Amazon Store' ? 'https://amzn.to/4bUotiS' : `#${item}`}
               key={item}
               variants={itemVariants}
               whileHover={{ scale: 1.1 }}
