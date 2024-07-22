@@ -60,7 +60,7 @@ const Sidebar = () => {
         <motion.div className="links" variants={variantsLink}>
           {items.map((item) => (
             <motion.a
-              href={item === 'Amazon Store' ? 'https://amzn.to/4bUotiS' : `#${item}`}
+              href={item === 'Amazon Store' ? 'https://amzn.to/4d3jgpk' : `#${item}`}
               key={item}
               variants={itemVariants}
               whileHover={{ scale: 1.1 }}
