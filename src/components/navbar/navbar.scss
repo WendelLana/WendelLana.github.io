@@ -38,3 +38,29 @@
     }
   }
 }
+
+:root { --nav-h: 72px; }
+
+.navbar {
+  position: sticky; top: 0; z-index: 100;
+  backdrop-filter: blur(8px);
+  background: color-mix(in oklab, #0d0f14 85%, transparent);
+  border-bottom: 1px solid rgba(255,255,255,.08);
+}
+.navbar.is-stuck { box-shadow: 0 6px 20px rgba(0,0,0,.25); }
+
+.navbar .wrapper {
+  max-width: 1100px; margin: 0 auto; padding: .6rem 1rem;
+  display: grid; grid-template-columns: 1fr auto auto; align-items: center; gap: 1rem;
+}
+.logo { font-weight: 800; letter-spacing:.2px; text-decoration:none; }
+.logo .accent { color: #7c3aed; }
+
+.navlinks { display:flex; gap:1rem; list-style:none; margin:0; padding:0; }
+.navlinks a { text-decoration: none; opacity:.9; }
+.navlinks a:hover { opacity:1; }
+
+@media (max-width: 900px) { .navlinks { display:none; } }
+
+html { scroll-behavior: smooth; }
+section[id] { scroll-margin-top: var(--nav-h); }
