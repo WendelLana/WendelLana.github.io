@@ -1,4 +1,3 @@
-// src/components/sidebar/Sidebar.jsx
 import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import "./sidebar.scss";
@@ -6,12 +5,12 @@ import ToggleButton from "./toggleButton/ToggleButton";
 
 const variants = {
   open: {
-    clipPath: "circle(1200px at 50px 50px)",
+    clipPath: "circle(150vmax at 48px 48px)",
     transition: { type: "spring", stiffness: 20 },
   },
   closed: {
     clipPath: "circle(30px at 50px 50px)",
-    transition: { delay: 0.2, type: "spring", stiffness: 400, damping: 40 }, // ← fixed 'transition'
+    transition: { delay: 0.2, type: "spring", stiffness: 400, damping: 40 },
   },
 };
 const variantsLink = {
@@ -42,8 +41,12 @@ const Sidebar = () => {
   const close = () => setOpen(false);
 
   return (
-    <motion.aside className="sidebar" animate={open ? "open" : "closed"}>
-      <motion.div className="bg" variants={variants}>
+    <motion.aside 
+      className={`sidebar ${open ? "is-open" : ""}`}
+      animate={open ? "open" : "closed"}
+      initial={false}
+      onKeyDown={(e) => e.key === "Escape" && setOpen(false)}>
+      <motion.div className="bg" variants={variants} style={{ pointerEvents: open ? "auto" : "none" }}>
         <motion.nav className="links" variants={variantsLink} aria-label="Mobile menu" id="mobile-menu">
           {items.map((item) => (
             <motion.a

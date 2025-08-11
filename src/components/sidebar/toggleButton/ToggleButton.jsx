@@ -1,4 +1,3 @@
-// src/components/sidebar/toggleButton/ToggleButton.jsx
 import { motion } from "framer-motion";
 
 const ToggleButton = ({ setOpen, open }) => {
